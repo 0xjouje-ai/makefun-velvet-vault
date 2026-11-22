@@ -1,8 +1,8 @@
 # The Gilded Hour — a museum heist
 
 [![make.fun](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
-[![rank](https://make.fun/badge/best-heist-game-20261122-0559/rank/0xjouje-ai/makefun-velvet-vault.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
-[![reward](https://make.fun/badge/best-heist-game-20261122-0559/reward/0xjouje-ai/makefun-velvet-vault.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/0xjouje-ai/makefun-velvet-vault/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/0xjouje-ai/makefun-velvet-vault/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
 
 An entry for the [make.fun "Make the best heist game" bounty](https://make.fun/bounty/best-heist-game-20261122-0559).
 
